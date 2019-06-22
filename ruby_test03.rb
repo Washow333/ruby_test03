@@ -1,6 +1,6 @@
 # ヒアドキュメントの識別子としてHTMLを使うテスト
 
-a = 'Ruby_test03'
+a = 'ruby_test03'
 
 a.prepend(<<TEXT)
 Java
